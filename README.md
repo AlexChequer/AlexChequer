@@ -1,6 +1,6 @@
 # Hi, I'm Alex 👋
 
-Computer Science undergrad at **Insper** (São Paulo, Brazil), graduating December 2027. I work mostly with **machine learning, deep learning, and data science**, with a focus on practical applications that solve real problems. I enjoy taking ideas from raw data to working systems, whether that means training a model, designing a pipeline, or shipping the whole thing to production.
+Computer Science undergrad at **Insper** (São Paulo, Brazil), graduating December 2027. I work mostly with **machine learning, deep learning, and data science**, with a focus on practical applications that solve/facilitate real problems.
 
 Outside ML, I have solid backend and software engineering experience and like building things end-to-end.
 
